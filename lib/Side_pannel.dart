@@ -17,7 +17,7 @@ class SidePanel extends StatelessWidget {
             height: 20,
           ),
           SizedBox(
-            height: 10,
+            height: 20,
           ),
           ListTile(
             leading: Icon(Icons.home),
